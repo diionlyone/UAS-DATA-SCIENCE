@@ -29,10 +29,6 @@ Repository ini berisi implementasi model klasifikasi untuk memprediksi status pe
    - `pandas`, `numpy`, `matplotlib`, `scikit-learn`
 2. Jalankan notebook menggunakan Jupyter Notebook / JupyterLab.
 
-## Catatan Penting
-- Kolom **Gaji** tidak digunakan sebagai fitur karena berpotensi *data leakage* (nilai gaji umumnya tersedia setelah placement terjadi).
-- Interpretasi model bersifat asosiasi statistik, bukan hubungan sebab-akibat.
-
 ## Link Cepat
 - Notebook: (klik file notebook di repo ini)
 - Laporan: (klik file .docx di repo ini)
